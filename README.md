@@ -1,5 +1,5 @@
 # MuFinder + MACE
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jollactic/MuFinder_MACE/blob/main/notebooks/MuFinder_MACE_tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jollactic/MuFinder_MACE/blob/main/MuFinder_MACE_tutorial.ipynb)
 
 
 A lightweight workflow for exploring possible positive-muon (μ⁺) stopping
